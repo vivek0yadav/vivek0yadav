@@ -79,27 +79,29 @@ Travel website where users can explore, book, and review stays.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
+<!-- 💻 GitHub Stats -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=vivekyadav&theme=react&hide_border=true&include_all_commits=true&show_icons=true" />
 <img width="49%" src="https://streak-stats.demolab.com?user=vivekyadav&theme=react&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav&layout=compact&theme=react&hide_border=true" />
+<br/><br/>
+
+<!-- 🧮 Most Used Languages -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivekyadav&layout=compact&langs_count=8&theme=react&hide_border=true&hide=html,css,python" />
+
+<!-- 📈 Contribution Graph -->
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=vivekyadav&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
----
-
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<!-- <div align="center">
   
 ![](https://github-profile-trophy.vercel.app/?username=vivekyadav&theme=algolia&no-frame=true&no-bg=false&margin-w=4&column=7)
 
-</div>
+</div> -->
 
 ---
 
