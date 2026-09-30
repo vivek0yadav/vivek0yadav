@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Vivek Yadav
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=600&lines=B.Tech+Final+Year+Student+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%9A" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00E7FF&center=true&vCenter=true&random=false&width=600&lines=Software+Developer+%F0%9F%8E%93;Full+Stack+Web+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%9A" alt="Typing SVG" />
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="laptop" width="60" />
 
